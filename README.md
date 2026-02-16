@@ -1,1 +1,1 @@
-# Zombie_Run
+This is my little game i've made with python turtle, I hope you enjoy it.
