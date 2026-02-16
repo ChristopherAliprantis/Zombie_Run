@@ -2,6 +2,7 @@ import turtle
 import random
 import time
 
+
 global zx, zy
 
 def psetup():
